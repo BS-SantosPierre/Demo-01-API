@@ -1,0 +1,29 @@
+{
+	"rows": [
+			{
+					"id": 1,
+					"name": "Pomme"
+			},
+			{
+					"id": 2,
+					"name": "Fraise"
+			},
+			{
+					"id": 3,
+					"name": "Tomate"
+			},
+			{
+					"id": 4,
+					"name": "Poire"
+			},
+			{
+					"id": 5,
+					"name": "Cerise"
+			},
+			{
+					"id": 6,
+					"name": "Raisin"
+			}
+	],
+	"lastId": 6
+}
